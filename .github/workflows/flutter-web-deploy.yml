@@ -39,7 +39,7 @@ jobs:
         run: flutter build web --release
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: Ajinkya-Fermion/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: build/web
