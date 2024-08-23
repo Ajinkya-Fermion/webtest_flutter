@@ -8,7 +8,7 @@ on:
   push:
     branches: [ "main" ] #When push action intiated
   pull_request:
-    branches: [ "main" ] #When pull action initiated
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
