@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My Portfolio'),
+        title: const Text('Ajinkya Portfolio'),
         actions: [
           TextButton(
             style: TextButton.styleFrom(
