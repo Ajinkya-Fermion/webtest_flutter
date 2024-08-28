@@ -62374,8 +62374,8 @@ return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.AP.prototype={
 P(a){return new A.rj(new A.A1(null),"Web Deployment",A.acD(null,A.aiI(B.O,B.Dx),!0),!1,null)}}
 A.A1.prototype={
-P(a){var s=null,r=t.af,q=A.b([A.acy(B.M0,new A.Q1(),A.acz(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.D7(s,s,10),A.acy(B.M3,new A.Q2(),A.acz(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.D7(s,s,10)],r)
-return new A.tu(new A.pd(B.M1,q,new A.HJ(s,s,1/0,56),s),new A.D6(A.aiO(A.b([new A.zZ(s),new A.y3(s),new A.zM(s)],r),B.ep),s),s)}}
+P(a){var s=null,r=t.af,q=A.b([A.acy(B.M1,new A.Q1(),A.acz(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.D7(s,s,10),A.acy(B.M3,new A.Q2(),A.acz(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),A.D7(s,s,10)],r)
+return new A.tu(new A.pd(B.LY,q,new A.HJ(s,s,1/0,56),s),new A.D6(A.aiO(A.b([new A.zZ(s),new A.y3(s),new A.zM(s)],r),B.ep),s),s)}}
 A.Q1.prototype={
 $0(){},
 $S:0}
@@ -64366,23 +64366,23 @@ B.xD=new A.Je()
 B.xE=new A.JU()
 B.xI=new A.pu(null,null,null,null,null,null,null)
 B.Ic=new A.i(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LY=new A.fj("\xa9 2024 My Portfolio | All Rights Reserved",null,B.Ic,null,null)
-B.xJ=new A.kc(B.a4,null,null,B.LY,null)
+B.LZ=new A.fj("\xa9 2024 My Portfolio | All Rights Reserved",null,B.Ic,null,null)
+B.xJ=new A.kc(B.a4,null,null,B.LZ,null)
 B.bs=new A.ew(6)
 B.JL=new A.i(!0,null,null,null,null,null,28,B.bs,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M_=new A.fj("Welcome to My Website!",null,B.JL,null,null)
-B.xK=new A.kc(B.a4,null,null,B.M_,null)
+B.M0=new A.fj("Welcome to My Website!",null,B.JL,null,null)
+B.xK=new A.kc(B.a4,null,null,B.M0,null)
 B.ep=new A.j0(0,"start")
 B.hF=new A.AC(1,"max")
 B.dR=new A.ms(2,"center")
 B.f0=new A.DU(1,"down")
 B.R=new A.mk(0,"none")
 B.JM=new A.i(!0,null,null,null,null,null,24,B.bs,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LZ=new A.fj("About Us",null,B.JM,null,null)
+B.M_=new A.fj("About Us",null,B.JM,null,null)
 B.Hc=new A.nx(null,20,null,null)
 B.eX=new A.i3(2,"center")
 B.M2=new A.fj("We are a leading software development company providing innovative solutions to clients worldwide.",null,null,B.eX,null)
-B.BG=A.b(s([B.LZ,B.Hc,B.M2]),t.af)
+B.BG=A.b(s([B.M_,B.Hc,B.M2]),t.af)
 B.yQ=new A.pC(B.aV,B.ep,B.hF,B.dR,null,B.f0,null,B.BG,null)
 B.xL=new A.kc(B.a4,null,null,B.yQ,null)
 B.xM=new A.pv(null,null,null,null,null,null,null,null,null)
@@ -66322,9 +66322,9 @@ B.L3=new A.i(!0,B.A,null,"Roboto",B.B,null,null,null,null,null,null,null,null,nu
 B.Ks=new A.i(!0,B.m,null,"Roboto",B.B,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.KC=new A.i(!0,B.m,null,"Roboto",B.B,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.LX=new A.cu(B.Lp,B.Ix,B.Jv,B.Kr,B.KE,B.HX,B.J4,B.I0,B.Kb,B.KR,B.JF,B.KT,B.L3,B.Ks,B.KC)
+B.LY=new A.fj("Ajinkya Portfolio",null,null,null,null)
 B.vp=new A.i(!0,B.i,B.m,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M0=new A.fj("Home",null,B.vp,null,null)
-B.M1=new A.fj("My Portfolio",null,null,null,null)
+B.M1=new A.fj("Home",null,B.vp,null,null)
 B.M3=new A.fj("About Us",null,B.vp,null,null)
 B.OF=new A.ZA(0,"system")
 B.M4=new A.ui(null)
